@@ -1,0 +1,17 @@
+CREATE DATABASE EquipmentTracker;
+USE EquipmentTracker;
+
+create table location
+(ID varchar(12) not null,
+ItemID int,
+Quantity int,
+constraint pk_location primary Key (ID,ItemID),
+constraint fk_location foreign key(ItemID) references Item(ItemID)
+);
+
+create table Item
+(
+ItemID int not null unique,
+descrption varchar(255),
+primary key(itemID)
+);

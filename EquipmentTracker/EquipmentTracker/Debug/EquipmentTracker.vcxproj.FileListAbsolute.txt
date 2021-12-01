@@ -1,0 +1,5 @@
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Debug\EquipmentTracker.vcxproj.AssemblyReference.cache
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Debug\EquipmentTracker.Form1.resources
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Debug\EquipmentTracker.vcxproj.GenerateResource.cache
+C:\Users\owamahon\source\repos\EquipmentTracker\Debug\EquipmentTracker.exe.config
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Debug\EquipmentTracker.exe.config

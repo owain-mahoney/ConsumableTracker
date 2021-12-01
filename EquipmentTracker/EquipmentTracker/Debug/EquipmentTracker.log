@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Form1.h(192,21): warning C4101: 'Reader': unreferenced local variable
+C:\Users\owamahon\source\repos\EquipmentTracker\EquipmentTracker\Form1.h(221,21): warning C4101: 'Reader': unreferenced local variable
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EquipmentTracker.vcxproj -> C:\Users\owamahon\source\repos\EquipmentTracker\Debug\EquipmentTracker.exe
